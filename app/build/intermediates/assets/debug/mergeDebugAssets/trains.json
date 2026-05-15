@@ -1,0 +1,173 @@
+{
+  "trains": [
+    {
+      "stationCode": "SBC",
+      "trainNumber": "12028",
+      "trainName": "Shatabdi Express",
+      "trainNameKannada": "ಶತಾಬ್ದಿ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+      "platform": 1,
+      "arrivalTime": "06:00",
+      "destination": "Chennai Central",
+      "destinationKannada": "ಚೆನ್ನೈ ಸೆಂಟ್ರಲ್",
+      "status": "On Time",
+      "coachSequence": [
+        { "type": "ENGINE", "label": "ENG", "position": 1 },
+        { "type": "AC", "label": "C1", "position": 2 },
+        { "type": "AC", "label": "C2", "position": 3 },
+        { "type": "AC", "label": "C3", "position": 4 },
+        { "type": "AC", "label": "C4", "position": 5 },
+        { "type": "AC", "label": "C5", "position": 6 },
+        { "type": "AC", "label": "C6", "position": 7 },
+        { "type": "GUARD", "label": "GRD", "position": 8 }
+      ]
+    },
+    {
+      "stationCode": "SBC",
+      "trainNumber": "16536",
+      "trainName": "Golgumbaz Express",
+      "trainNameKannada": "ಗೋಲ್ ಗುಂಬಝ್ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+      "platform": 2,
+      "arrivalTime": "07:30",
+      "destination": "Solapur",
+      "destinationKannada": "ಸೋಲಾಪುರ",
+      "status": "On Time",
+      "coachSequence": [
+        { "type": "ENGINE", "label": "ENG", "position": 1 },
+        { "type": "GENERAL", "label": "GEN", "position": 2 },
+        { "type": "LADIES", "label": "LDY", "position": 3 },
+        { "type": "SLEEPER", "label": "S1", "position": 4 },
+        { "type": "SLEEPER", "label": "S2", "position": 5 },
+        { "type": "SLEEPER", "label": "S3", "position": 6 },
+        { "type": "AC", "label": "B1", "position": 7 },
+        { "type": "AC", "label": "A1", "position": 8 },
+        { "type": "GENERAL", "label": "GEN", "position": 9 },
+        { "type": "GUARD", "label": "GRD", "position": 10 }
+      ]
+    },
+    {
+      "stationCode": "SBC",
+      "trainNumber": "11035",
+      "trainName": "Sharavati Express",
+      "trainNameKannada": "ಶರಾವತಿ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+      "platform": 4,
+      "arrivalTime": "09:15",
+      "destination": "Mumbai CSMT",
+      "destinationKannada": "ಮುಂಬೈ",
+      "status": "Delayed",
+      "coachSequence": [
+        { "type": "ENGINE", "label": "ENG", "position": 1 },
+        { "type": "GENERAL", "label": "GEN", "position": 2 },
+        { "type": "GENERAL", "label": "GEN", "position": 3 },
+        { "type": "LADIES", "label": "LDY", "position": 4 },
+        { "type": "SLEEPER", "label": "S1", "position": 5 },
+        { "type": "SLEEPER", "label": "S2", "position": 6 },
+        { "type": "SLEEPER", "label": "S3", "position": 7 },
+        { "type": "SLEEPER", "label": "S4", "position": 8 },
+        { "type": "AC", "label": "B1", "position": 9 },
+        { "type": "AC", "label": "B2", "position": 10 },
+        { "type": "AC", "label": "A1", "position": 11 },
+        { "type": "GENERAL", "label": "GEN", "position": 12 },
+        { "type": "GUARD", "label": "GRD", "position": 13 }
+      ]
+    },
+    {
+      "stationCode": "YNK",
+      "trainNumber": "56921",
+      "trainName": "Yelahanka Passenger",
+      "trainNameKannada": "ಯಲಹಂಕ ಪ್ಯಾಸೆಂಜರ್",
+      "platform": 1,
+      "arrivalTime": "08:00",
+      "destination": "Dharmavaram",
+      "destinationKannada": "ಧರ್ಮವರಂ",
+      "status": "On Time",
+      "coachSequence": [
+        { "type": "ENGINE", "label": "ENG", "position": 1 },
+        { "type": "GENERAL", "label": "GEN", "position": 2 },
+        { "type": "LADIES", "label": "LDY", "position": 3 },
+        { "type": "GENERAL", "label": "GEN", "position": 4 },
+        { "type": "GENERAL", "label": "GEN", "position": 5 },
+        { "type": "GUARD", "label": "GRD", "position": 6 }
+      ]
+    },
+    {
+      "stationCode": "YNK",
+      "trainNumber": "17308",
+      "trainName": "Basava Express",
+      "trainNameKannada": "ಬಸವ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+      "platform": 2,
+      "arrivalTime": "10:20",
+      "destination": "Hazur Sahib Nanded",
+      "destinationKannada": "ನಾಂದೇಡ್",
+      "status": "On Time",
+      "coachSequence": [
+        { "type": "ENGINE", "label": "ENG", "position": 1 },
+        { "type": "GENERAL", "label": "GEN", "position": 2 },
+        { "type": "LADIES", "label": "LDY", "position": 3 },
+        { "type": "SLEEPER", "label": "S1", "position": 4 },
+        { "type": "SLEEPER", "label": "S2", "position": 5 },
+        { "type": "SLEEPER", "label": "S3", "position": 6 },
+        { "type": "AC", "label": "B1", "position": 7 },
+        { "type": "GENERAL", "label": "GEN", "position": 8 },
+        { "type": "GUARD", "label": "GRD", "position": 9 }
+      ]
+    },
+    {
+      "stationCode": "TK",
+      "trainNumber": "56921",
+      "trainName": "Tumkur Passenger",
+      "trainNameKannada": "ತುಮಕೂರು ಪ್ಯಾಸೆಂಜರ್",
+      "platform": 1,
+      "arrivalTime": "07:45",
+      "destination": "Arsikere",
+      "destinationKannada": "ಅರಸೀಕೆರೆ",
+      "status": "On Time",
+      "coachSequence": [
+        { "type": "ENGINE", "label": "ENG", "position": 1 },
+        { "type": "GENERAL", "label": "GEN", "position": 2 },
+        { "type": "LADIES", "label": "LDY", "position": 3 },
+        { "type": "GENERAL", "label": "GEN", "position": 4 },
+        { "type": "GUARD", "label": "GRD", "position": 5 }
+      ]
+    },
+    {
+      "stationCode": "MYS",
+      "trainNumber": "12008",
+      "trainName": "Mysuru Shatabdi",
+      "trainNameKannada": "ಮೈಸೂರು ಶತಾಬ್ದಿ",
+      "platform": 1,
+      "arrivalTime": "11:00",
+      "destination": "KSR Bengaluru",
+      "destinationKannada": "ಬೆಂಗಳೂರು",
+      "status": "On Time",
+      "coachSequence": [
+        { "type": "ENGINE", "label": "ENG", "position": 1 },
+        { "type": "AC", "label": "C1", "position": 2 },
+        { "type": "AC", "label": "C2", "position": 3 },
+        { "type": "AC", "label": "C3", "position": 4 },
+        { "type": "AC", "label": "C4", "position": 5 },
+        { "type": "GUARD", "label": "GRD", "position": 6 }
+      ]
+    },
+    {
+      "stationCode": "DVG",
+      "trainNumber": "17301",
+      "trainName": "Tungabhadra Express",
+      "trainNameKannada": "ತುಂಗಭದ್ರ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+      "platform": 1,
+      "arrivalTime": "09:30",
+      "destination": "Hyderabad",
+      "destinationKannada": "ಹೈದರಾಬಾದ್",
+      "status": "On Time",
+      "coachSequence": [
+        { "type": "ENGINE", "label": "ENG", "position": 1 },
+        { "type": "GENERAL", "label": "GEN", "position": 2 },
+        { "type": "LADIES", "label": "LDY", "position": 3 },
+        { "type": "SLEEPER", "label": "S1", "position": 4 },
+        { "type": "SLEEPER", "label": "S2", "position": 5 },
+        { "type": "AC", "label": "B1", "position": 6 },
+        { "type": "GENERAL", "label": "GEN", "position": 7 },
+        { "type": "GUARD", "label": "GRD", "position": 8 }
+      ]
+    }
+  ]
+}

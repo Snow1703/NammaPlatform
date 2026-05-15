@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ನಮ್ಮ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್</string>
+    <string name="app_name_english">Namma Platform</string>
+    <string name="select_station">ನಿಮ್ಮ ನಿಲ್ದಾಣ ಆಯ್ಕೆ ಮಾಡಿ / Select Your Station</string>
+    <string name="next_trains">ಮುಂದಿನ 3 ರೈಲುಗಳು / Next 3 Trains</string>
+    <string name="help_me">🔊 ಸಹಾಯ ಮಾಡಿ! Help Me!</string>
+    <string name="platform">ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ / Platform</string>
+    <string name="coach_layout">🚃 ಬೋಗಿ ವ್ಯವಸ್ಥೆ / Coach Layout</string>
+    <string name="on_time">ಸಮಯಕ್ಕೆ / On Time</string>
+    <string name="delayed">ತಡ / Delayed</string>
+    <string name="destination">🏁 ಗಮ್ಯ / Destination</string>
+    <string name="arrival">ಆಗಮನ / Arrival</string>
+</resources>
